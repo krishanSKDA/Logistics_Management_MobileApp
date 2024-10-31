@@ -1,0 +1,26 @@
+{
+    "support": [
+      {
+        "id": "CS_01",
+        "name": "Technical Support",
+        "contact": "+94-555-1234",
+        "email": "techsupport@gmail.com",
+        "available": "24/7"
+      },
+      {
+        "id": "CS_02",
+        "name": "Billing Support",
+        "contact": "+94-555-5678",
+        "email": "billing@gmail.com",
+        "available": "Mon-Fri, 9am-5pm"
+      },
+      {
+        "id": "CS_03",
+        "name": "General Inquiries",
+        "contact": "+94-555-9101",
+        "email": "info@gmail.com",
+        "available": "Mon-Sun, 8am-8pm"
+      }
+    ]
+}
+  
